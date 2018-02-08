@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Braille Keyboard\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw400dp-v13\\values-sw400dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\Braille Keyboard\\src\\main\\res\\values-sw400dp\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "248",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "431"
+                    }
+                },
+                {
+                    "source": "E:\\Braille Keyboard\\src\\main\\res\\values-sw400dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "148,79,259",
+                        "endColumns": "69,68,53",
+                        "endOffsets": "213,143,308"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,194",
+                        "endColumns": "69,68,53",
+                        "endOffsets": "120,189,243"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\BrailleTouch\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw400dp-v13\\values-sw400dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\BrailleTouch\\src\\main\\res\\values-sw400dp\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "248",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "431"
+                    }
+                },
+                {
+                    "source": "E:\\BrailleTouch\\src\\main\\res\\values-sw400dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "148,79,259",
+                        "endColumns": "69,68,53",
+                        "endOffsets": "213,143,308"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,194",
+                        "endColumns": "69,68,53",
+                        "endOffsets": "120,189,243"
+                    }
+                }
+            ]
+        }
+    ]
+}

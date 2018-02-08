@@ -1,0 +1,140 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\BrailleTouch\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\asass\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\695d4d3894dac8e546f3fe1deb6c4b44\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "94,163,232,302,376,452,511,582",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "158,227,297,371,447,506,577,645"
+                    }
+                },
+                {
+                    "source": "E:\\BrailleTouch\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "6,4,3,5,9,13,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "226,130,81,180,322,536,375,429,483",
+                        "endColumns": "54,49,48,45,52,53,53,53,52",
+                        "endOffsets": "276,175,125,221,370,585,424,478,531"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "650,705,755,804,850,903,957,1011,1065",
+                        "endColumns": "54,49,48,45,52,53,53,53,52",
+                        "endOffsets": "700,750,799,845,898,952,1006,1060,1113"
+                    }
+                },
+                {
+                    "source": "E:\\BrailleTouch\\src\\main\\res\\values-sw600dp\\bools.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    }
+                },
+                {
+                    "source": "E:\\BrailleTouch\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1118",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1301"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Braille Keyboard\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\asass\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\695d4d3894dac8e546f3fe1deb6c4b44\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "94,163,232,302,376,452,511,582",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "158,227,297,371,447,506,577,645"
+                    }
+                },
+                {
+                    "source": "E:\\Braille Keyboard\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "6,4,3,5,9,13,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "226,130,81,180,322,536,375,429,483",
+                        "endColumns": "54,49,48,45,52,53,53,53,52",
+                        "endOffsets": "276,175,125,221,370,585,424,478,531"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "650,705,755,804,850,903,957,1011,1065",
+                        "endColumns": "54,49,48,45,52,53,53,53,52",
+                        "endOffsets": "700,750,799,845,898,952,1006,1060,1113"
+                    }
+                },
+                {
+                    "source": "E:\\Braille Keyboard\\src\\main\\res\\values-sw600dp\\bools.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    }
+                },
+                {
+                    "source": "E:\\Braille Keyboard\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1118",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1301"
+                    }
+                }
+            ]
+        }
+    ]
+}

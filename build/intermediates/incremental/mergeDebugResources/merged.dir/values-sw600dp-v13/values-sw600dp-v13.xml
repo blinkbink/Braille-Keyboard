@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="is_tablet">true</bool>
+    <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
+    <dimen name="abc_action_bar_content_inset_with_nav">80dp</dimen>
+    <dimen name="abc_action_bar_default_height_material">64dp</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8dp</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="braille_cell_free_area">150dp</dimen>
+    <dimen name="braille_dot_margin">15dp</dimen>
+    <dimen name="braille_dot_stroke">5dp</dimen>
+    <dimen name="min_dot_radius">40dp</dimen>
+    <dimen name="operations_bar_height">55dp</dimen>
+    <dimen name="operations_btns_height">48dp</dimen>
+    <dimen name="operations_btns_margin">10dp</dimen>
+    <dimen name="operations_btns_padding">5dp</dimen>
+    <dimen name="operations_btns_width">48dp</dimen>
+    <style name="colorpickerview__ColorPickerViewStyle">
+        <item name="android:layout_width">360dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

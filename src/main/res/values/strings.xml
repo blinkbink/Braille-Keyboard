@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main things-->
+    <string name="app_name">BraiTik</string>
+    <string name="app_description" translatable="false">Braille Tik, Indonesian Braille keyboard</string>
+    <string name="not_braille_code">Pola Tidak Ditemukan</string>
+    <string name="app_keyboard_description">Braille Tik</string>
+
+    <string name="app_shows_en_keyboard">Mode Braille DiAktifkan</string>
+    <string name="app_is_hidden">Mode Braille, Di Non Aktifkan</string>
+
+    <!-- Main screen activity -->
+    <string name="info">Keyboard Tunanetra</string>
+    <string name="author">Author : Iqbal</string>
+    <string name="version">Version 1.0</string>
+    <string name="note">Lakukan setting pergantian input keyboard pada setting android dan pilih mode tunanetra.</string>
+
+    <!-- Keyboard languages activity and layout-->
+    <string name="keyboard_language_caution">Changing active input methods languages might change the default keyboard language, show, or hide other settings.</string>
+    <string name="one_lang_must_selected">At least one language must be selected!</string>
+    <string name="active_input_methods">Active input methods</string>
+    <string name="english_language_method" translatable="false">English</string>
+
+    <!-- Settings activity and layout -->
+    <string name="dots_layout">Dots layout</string>
+    <string name="dot_style">Dots style</string>
+    <string name="keyboard_languages">Keyboard languages</string>
+    <string name="default_keyboard_language">Default keyboard languages</string>
+    <string name="sounds_item">Sounds</string>
+    <string name="advanced_item">Advanced settings</string>
+    <string name="special_tools_item">Special items</string>
+    <string name="about_title">About</string>
+
+    <!-- Sounds activity and layout -->
+    <string name="sound_over_braille_dot">Dot sound</string>
+    <string name="tts_engines_item">Text to speech engines</string>
+    <string name="activate_voice_sound">Activate voice input</string>
+    <string name="talk_back_char">Use TTS to talk back each typed character or word</string>
+    <string name="play_always_stored_voices">Play always stored voices (Arabic language)</string>
+    <string name="read_written_text">Read the written text after I close the keyboard</string>
+    <string name="no_braille_dot_sound">None</string>
+    <string name="tick_braille_dot_sound">Tick sound</string>
+    <string name="dorime_braille_dot_sound">Do Ri Me… sound</string>
+    <string name="number_braille_dot_sound">Dot number sound</string>
+    <string name="ops_bars_off_for_voice_input">It seems operations bars are inactivated, please activate them to use this feature correctly!</string>
+
+    <!-- Menus and Operations bars -->
+    <string name="hide_keyboard">Hide keyboard</string>
+    <string name="space">Spasi</string>
+    <string name="new_line">Garis Baru</string>
+    <string name="back_space">Huruf %1$s Di Hapus</string>
+    <string name="full_text_deletion">All text has been removed</string>
+    <string name="word_deletion">The word %1$s has been removed</string>
+    <string name="change_keyboard_language">Change keyboard language</string>
+    <string name="change_keyboard_pattern">Change keyboard type</string>
+    <string name="texts">Texts </string>
+    <string name="voice_input">Voice Input</string>
+    <string name="copy_text">Copy </string>
+    <string name="paste_text">Paste</string>
+    <string name="remove_last_char">Backspace</string>
+    <string name="remove_last_word">Remove last word</string>
+    <string name="remove_all_text">Remove all text</string>
+    <string name="text_copied">Text copied</string>
+    <string name="text_pasted">Text pasted</string>
+    <string name="swiftbraille_store_link" translatable="false">https://play.google.com/store/apps/details?id=com.mbanna.swiftbraille</string>
+    <string name="how_to_link">http://en.swiftbraille.com/blog/how-to/?utm_source=SwiftBrailleApp</string>
+    <string name="join_testing_program_link" translatable="false">https://play.google.com/apps/testing/com.mbanna.swiftbraille</string>
+    <string name="under_testing_link">http://en.swiftbraille.com/blog/under-testing/?utm_source=SwiftBrailleApp</string>
+    <string name="swiftbraille_share_text">Share SwiftBraille link&#8230;</string>
+    <string name="how_to_item">How to use</string>
+    <string name="about_item">About</string>
+    <string name="share_item">Share</string>
+    <string name="licence_item">Licence</string>
+    <string name="licence_link">http://en.swiftbraille.com/blog/licence/?utm_source=SwiftBrailleApp</string>
+    <string name="privacy_policy_item">Privacy policy</string>
+    <string name="privacy_policy_link">http://en.swiftbraille.com/blog/privacy-policy/?utm_source=SwiftBrailleApp</string>
+    <string name="whats_new_item">What\'s new</string>
+    <string name="whats_new_link">http://en.swiftbraille.com/blog/logs/?utm_source=SwiftBrailleApp</string>
+    <string name="join_testing_program">Join testing program</string>
+    <string name="move_keyboard_top_left">Move the keyboard to the left of the screen</string>
+    <string name="move_keyboard_top_right">Move the keyboard to the right of the screen</string>
+    <string name="keyboard_full_width">Keyboard full width</string>
+    <string name="keyboard_is_top_left">The keyboard now is in the top left of the screen</string>
+    <string name="keyboard_is_top_right">The keyboard now is in the top right of the screen</string>
+    <string name="keyboard_is_full_width">The keyboard now is in full width of the screen</string>
+
+    <!-- English General Pattern & Math-->
+    <string name="comma_pattern">Koma</string>
+    <string name="semicolon">Semocolon</string>
+    <string name="and_pattern">Ampersand</string>
+    <string name="colon_pattern">Colon</string>
+    <string name="exclamation_mark_pattern">Tanda Seru</string>
+    <string name="KurungBuka">Kurung Buka</string>
+    <string name="KurungTutup">Kurung Tutup</string>
+    <string name="opening_parenthesis_pattern">Opening parenthesis</string>
+    <string name="closing_parenthesis_pattern">Closing parenthesis</string>
+    <string name="double_quotation_pattern">Double quotation</string>
+    <string name="dot_pattern">Titik</string>
+    <string name="decimal_dot_pattern">Decimal point</string>
+    <string name="semicolon_pattern">Semicolon</string>
+    <string name="question_mark_pattern">Tanda Tanya</string>
+    <string name="percent_pattern">Percent</string>
+    <string name="slash_pattern">Slash</string>
+    <string name="back_slash_pattern">Backslash</string>
+    <string name="hash_pattern">Hash</string>
+    <string name="equals_pattern">Equals</string>
+    <string name="plus_pattern">Plus</string>
+    <string name="minus_pattern">Minus</string>
+    <string name="multiply_pattern">Multiply</string>
+    <string name="asterisk_pattern">Asterisk</string>
+    <string name="divided_by_pattern">Divided by</string>
+    <string name="at_pattern">At</string>
+    <string name="apostrophe_pattern">Tanda Petik</string>
+    <string name="underscore_pattern">Garis Bawah</string>
+    <string name="greater_than_pattern">Tanda Lebih Besar</string>
+    <string name="right_arrowhead_pattern">Right arrowhead</string>
+    <string name="less_than_pattern">Tanda Kurang Dari</string>
+    <string name="left_arrowhead_pattern">Left arrowhead</string>
+
+    <!-- Keyboards and languages -->
+    <string name="english_small_letters_keyboard">Mode Huruf Kecil</string>
+    <string name="english_capital_letters_keyboard">Mode Huruf Kapital</string>
+    <string name="math_symbols_keyboard">Simbol Matematika</string>
+    <string name="special_symbols_keyboard">Spesial Karakter</string>
+    <string name="numbers_keyboard">Mode Numerik</string>
+    <string name="english_current_language">English input keyboard</string>
+    <string name="in_uppercase" translatable="false">Kapital</string>
+    <string name="dash" translatable="false">Strip</string>
+    <string name="titikDua" translatable="false">Titik Dua</string>
+</resources>

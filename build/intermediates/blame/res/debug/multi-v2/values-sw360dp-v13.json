@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Braille Keyboard\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\Braille Keyboard\\src\\main\\res\\values-sw360dp\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "76",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "194",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "377"
+                    }
+                },
+                {
+                    "source": "E:\\Braille Keyboard\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "150,81",
+                        "endColumns": "69,68",
+                        "endOffsets": "215,145"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,125",
+                        "endColumns": "69,68",
+                        "endOffsets": "120,189"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\BrailleTouch\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\BrailleTouch\\src\\main\\res\\values-sw360dp\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "76",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "194",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "377"
+                    }
+                },
+                {
+                    "source": "E:\\BrailleTouch\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "150,81",
+                        "endColumns": "69,68",
+                        "endOffsets": "215,145"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,125",
+                        "endColumns": "69,68",
+                        "endOffsets": "120,189"
+                    }
+                }
+            ]
+        }
+    ]
+}
